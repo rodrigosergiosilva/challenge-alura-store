@@ -31,9 +31,6 @@ A conclusão é apresentada com base em evidências visuais e numéricas, utiliz
 ```
 📁 challenge-alura-store/
 │
-├── 📄 AluraStoreBr.ipynb         # Notebook principal com toda a análise
-├── 📄 README.md                  # Este arquivo
-├── 📄 LICENSE
 ├── 📁 dados/                     # Arquivos CSV com dados das lojas
 │   ├── loja1.csv
 │   ├── loja2.csv
@@ -43,6 +40,9 @@ A conclusão é apresentada com base em evidências visuais e numéricas, utiliz
 │   ├── faturamento_lojas.png
 │   ├── frete_medio_loja.png
 │   └── media_avaliacao_lojas.png
+├── 📄 AluraStoreBr.ipynb         # Notebook principal com toda a análise
+├── 📄 LICENSE
+├── 📄 README.md                  # Este arquivo
 ```
 ---
 
