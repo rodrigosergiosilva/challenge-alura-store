@@ -31,8 +31,8 @@ A conclusão é apresentada com base em evidências visuais e numéricas, utiliz
 ```
 📁 challenge-alura-store/
 │
-├── 📄 README.md                  # Este arquivo
 ├── 📄 AluraStoreBr.ipynb         # Notebook principal com toda a análise
+├── 📄 README.md                  # Este arquivo
 ├── 📄 LICENSE
 ├── 📁 dados/                     # Arquivos CSV com dados das lojas
 │   ├── loja1.csv
@@ -58,11 +58,13 @@ Durante a análise, foram criadas diversas visualizações. Aqui estão alguns e
 
 ### 🛍️ Frete Médio por Loja
 
+![Frete](imagens/frete_medio_loja.png)
+
 - A **Loja 1** apresenta o maior frete médio, enquanto que a **Loja 4** apresenta o menor frete médio.
 
 ### ⭐ Avaliação Média por Loja
 
-![Avaliações](imagens/avaliacoes_por_loja.png)
+![Avaliações](imagens/media_avaliacao_lojas.png)
 
 - Todas as lojas apresentam uma boa média de avaliação, acima de 3.9, com a **Loja 3** tendo a avaliação mais alta.
 
